@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I love writing software using *Java* and *Python*.
+
+
+Recently, I have been learning **Web Programming** with **Flask**, **Django**, **Node.js**, and **React**
